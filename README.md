@@ -1,11 +1,11 @@
-About sqlparams
-===============
+About sqlparams-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlparams-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/sqlparams/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlparams-feedstock/blob/main/LICENSE.txt)
 
 Summary: Convert between various DB API 2.0 parameter styles.
 
