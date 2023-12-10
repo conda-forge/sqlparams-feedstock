@@ -1,5 +1,5 @@
 {% set name = "sqlparams" %}
-{% set version = "5.1.0" %}
+{% set version = "6.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlparams-{{ version }}.tar.gz
-  sha256: 1abe87a0684567265b2b86f5a482d5c37db237c0268d4c81774ffedce4300199
+  sha256: 032b2f949d4afbcbfa24003f6fb407f2fc8468184e3d8ca3d59ba6b30d4935bf
 
 build:
   noarch: python
